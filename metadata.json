@@ -1,0 +1,6 @@
+{
+  "name": "Liberty Walk — Ferrari F40",
+  "description": "An independent visual study of the LB-WORKS Ferrari F40 featuring an interactive 3D Sketchfab model, atmospheric lighting transition, and spotlight photo showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
